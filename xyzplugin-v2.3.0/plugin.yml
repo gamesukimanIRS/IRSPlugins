@@ -1,0 +1,13 @@
+name: xyzplugin
+main: xyzplugin\main
+version: 2.3.0
+api: 3.0.0
+author: gamesukimanIRS
+commands:
+  xyz:
+    description: "自分の座標を調べます。"
+    usage: "/xyz"
+  xyzhelp:
+    description: "xyzpluginのヘルプを表示します"
+    usage: "/xyzhelp"
+
