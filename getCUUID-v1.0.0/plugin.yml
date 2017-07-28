@@ -1,0 +1,31 @@
+name: getCUUID
+main: getCUUID\Main
+version: 1.0.0
+api: 3.0.0
+author: gamesukimanIRS
+commands:
+  getip:
+    description: "プレイヤーのipを取得します"
+    usage: "/getip <name>"
+    permission: commands.ip.cheker.player
+  gethost:
+    description: "プレイヤーのhostを取得します"
+    usage: "/gethost <name>"
+    permission: commands.host.cheker.player
+  getcid:
+    description: "プレイヤーのcidを取得します"
+    usage: "/getcid <name>"
+    permission: commands.cid.cheker.player
+  getuuid:
+    description: "プレイヤーのuuidを取得します"
+    usage: "/getuuid <name>"
+    permission: commands.uuid.cheker.player
+  permissions:
+    commands.ip.cheker.player:
+      default: op
+    commands.host.cheker.player:
+      default: op
+    commands.cid.cheker.player:
+      default: op
+    commands.uuid.cheker.player:
+      default: op
