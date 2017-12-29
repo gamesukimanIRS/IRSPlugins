@@ -1,0 +1,15 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/gamesukimanIRS/IRSPlugins
+branches:
+- master
+projects:
+  Elevator-v0.0.1:
+    path: Elevator-v0.0.1/
+  Jisatu-v1.0.0:
+    path: Jisatu-v1.0.0/
+  ServerTitle-1.1.0:
+    path: ServerTitle-1.1.0/
+  getCUUID-v1.0.0:
+    path: getCUUID-v1.0.0/
+  xyzplugin-v2.3.0:
+    path: xyzplugin-v2.3.0/
+...
