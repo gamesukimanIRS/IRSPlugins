@@ -28,10 +28,6 @@ Configで設定できます
 |/getcid <name>|<name>のCIDを取得|
 |/getuuid <name>|<name>のUUIDを取得|
 
-|コマンド|取得内容|
-|:--:|:--:|
-|/align left|align right|
-|a|b|
 ### xyzplugin+α
 [xyzplugin](https://github.com/gamesukimanIRS/xyzplugin-)
 
