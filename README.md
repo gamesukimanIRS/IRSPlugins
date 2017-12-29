@@ -22,12 +22,14 @@ Configで設定できます
 過去のIP、Host、CID、UUIDは記録しません。
 
 |コマンド|取得内容|
+|:--:|:--:|
 |/getip <name>|<name>のIPを取得|
 |/gethost <name>|<name>のHostを取得|
 |/getcid <name>|<name>のCIDを取得|
 |/getuuid <name>|<name>のUUIDを取得|
 
 |コマンド|取得内容|
+|:--:|:--:|
 |/align left|align right|
 |a|b|
 ### xyzplugin+α
