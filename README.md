@@ -12,7 +12,7 @@ gamesukimanIRSの開発したプラグインのソース
 `/shinu`で自殺できます。
 
 ### ServerTitle
-[![PoggitCI Badge](https://poggit.pmmp.io/ci.badge/gamesukimanIRS/IRSplugins/ServerTitle)](https://poggit.pmmp.io/ci/gamesukimanIRS/IRSplugins/ServerTitle)  
+[![PoggitCI Badge](https://poggit.pmmp.io/ci.badge/gamesukimanIRS/IRSplugins/ServerTitle)](https://poggit.pmmp.io/ci/gamesukimanIRS/IRSplugins/ServerTitle)  
 サーバーに入った時にサーバー名とバージョンをタイトル表示  
 Configで設定できます
 
