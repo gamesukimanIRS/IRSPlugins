@@ -12,6 +12,14 @@ gamesukimanIRSの開発したプラグインのソース
 `/shinu`で自殺できます。
 
 ### ServerTitle
+[![PoggitCI Badge](https://poggit.pmmp.io/ci.badge/gamesukimanIRS/IRSplugins/ServerTitle)](https://poggit.pmmp.io/ci/gamesukimanIRS/IRSplugins/ServerTitle)  
+サーバーに入った時にサーバー名とバージョンをタイトル表示  
+Configで設定できます
+
+### getCUUID
+[![PoggitCI Badge](https://poggit.pmmp.io/ci.badge/gamesukimanIRS/IRSplugins/getCUUID)](https://poggit.pmmp.io/ci/gamesukimanIRS/IRSplugins/getCUUID)  
+サーバーに入った人のIP、Host、CID、UUIDを取得します。コマンド(又はConfig)で閲覧できます。  
+過去のIP、Host、CID、UUIDは記録しません。
 
 # 注意
 改造配布、二次配布、コードの無断コピー/転載、製作者偽りは断じて禁止です。
