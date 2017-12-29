@@ -1,6 +1,10 @@
 # IRSPlugins
 gamesukimanIRSの開発したプラグインのソース
 
+# 一覧
+### Elevator
+[![PoggitCI Badge](https://poggit.pmmp.io/ci.badge/gamesukimanIRS/IRSplugins/Elevator)](https://poggit.pmmp.io/ci/gamesukimanIRS/IRSplugins/Elevator)
+
 # 注意
 改造配布、二次配布、コードの無断コピー/転載、製作者偽りは断じて禁止です。
 
