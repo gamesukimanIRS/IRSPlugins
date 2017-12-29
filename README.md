@@ -29,7 +29,7 @@ Configで設定できます
 
 |header1|header2|
 |:--|--:|
-|align left|align right|
+|/align left|align right|
 |a|b|
 ### xyzplugin+α
 [xyzplugin](https://github.com/gamesukimanIRS/xyzplugin-)
