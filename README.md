@@ -27,7 +27,7 @@ Configで設定できます
 |/getcid <name>|<name>のCIDを取得|
 |/getuuid <name>|<name>のUUIDを取得|
 
-|header1|header2|
+|コマンド|取得内容|
 |:--|--:|
 |/align left|align right|
 |a|b|
