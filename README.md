@@ -2,8 +2,16 @@
 gamesukimanIRSの開発したプラグインのソース
 
 # 一覧
-### Elevator
-[![PoggitCI Badge](https://poggit.pmmp.io/ci.badge/gamesukimanIRS/IRSplugins/Elevator)](https://poggit.pmmp.io/ci/gamesukimanIRS/IRSplugins/Elevator)
+### Elevator(開発中)
+[![PoggitCI Badge](https://poggit.pmmp.io/ci.badge/gamesukimanIRS/IRSplugins/Elevator)](https://poggit.pmmp.io/ci/gamesukimanIRS/IRSplugins/Elevator)  
+エレベーター作成可能プラグイン(予定)
+
+### Jisatu
+[![PoggitCI Badge](https://poggit.pmmp.io/ci.badge/gamesukimanIRS/IRSplugins/Jisatu)](https://poggit.pmmp.io/ci/gamesukimanIRS/IRSplugins/Jisatu)  
+自殺プラグイン  
+`/shinu`で自殺できます。
+
+### ServerTitle
 
 # 注意
 改造配布、二次配布、コードの無断コピー/転載、製作者偽りは断じて禁止です。
