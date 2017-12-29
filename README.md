@@ -19,8 +19,9 @@ Configで設定できます
 ### getCUUID
 [![PoggitCI Badge](https://poggit.pmmp.io/ci.badge/gamesukimanIRS/IRSplugins/getCUUID)](https://poggit.pmmp.io/ci/gamesukimanIRS/IRSplugins/getCUUID)  
 サーバーに入った人のIP、Host、CID、UUIDを取得します。コマンド(又はConfig)で閲覧できます。  
-過去のIP、Host、CID、UUIDは記録しません。
+過去のIP、Host、CID、UUIDは記録しません。  
 |コマンド|取得内容|  
+|:--:|:--:|
 |/getip <name>|<name>のIPを取得|  
 |/gethost <name>|<name>のHostを取得|  
 |/getcid <name>|<name>のCIDを取得|  
