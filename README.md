@@ -3,21 +3,21 @@ gamesukimanIRSの開発したプラグインのソース
 
 # 一覧
 ### Elevator(開発中)
-[![PoggitCI Badge](https://poggit.pmmp.io/ci.badge/gamesukimanIRS/IRSplugins/Elevator)](https://poggit.pmmp.io/ci/gamesukimanIRS/IRSplugins/Elevator)  
+[![PoggitCI Badge](https://poggit.pmmp.io/ci.badge/gamesukimanIRS/IRSplugins/Elevator/Elevator)](https://poggit.pmmp.io/ci/gamesukimanIRS/IRSplugins/Elevator/Elevator)  
 エレベーター作成可能プラグイン(予定)
 
 ### Jisatu
-[![PoggitCI Badge](https://poggit.pmmp.io/ci.badge/gamesukimanIRS/IRSplugins/Jisatu)](https://poggit.pmmp.io/ci/gamesukimanIRS/IRSplugins/Jisatu)  
+[![PoggitCI Badge](https://poggit.pmmp.io/ci.badge/gamesukimanIRS/IRSplugins/Jisatu/Jisatu)](https://poggit.pmmp.io/ci/gamesukimanIRS/IRSplugins/Jisatu/Jisatu)  
 自殺プラグイン  
 `/shinu`で自殺できます。
 
 ### ServerTitle
-[![PoggitCI Badge](https://poggit.pmmp.io/ci.badge/gamesukimanIRS/IRSplugins/ServerTitle)](https://poggit.pmmp.io/ci/gamesukimanIRS/IRSplugins/ServerTitle)  
+[![PoggitCI Badge](https://poggit.pmmp.io/ci.badge/gamesukimanIRS/IRSplugins/ServerTitle/ServerTitle)](https://poggit.pmmp.io/ci/gamesukimanIRS/IRSplugins/ServerTitle/ServerTitle)  
 サーバーに入った時にサーバー名とバージョンをタイトル表示  
 Configで設定できます
 
 ### getCUUID
-[![PoggitCI Badge](https://poggit.pmmp.io/ci.badge/gamesukimanIRS/IRSplugins/getCUUID)](https://poggit.pmmp.io/ci/gamesukimanIRS/IRSplugins/getCUUID)  
+[![PoggitCI Badge](https://poggit.pmmp.io/ci.badge/gamesukimanIRS/IRSplugins/getCUUID/getCUUID)](https://poggit.pmmp.io/ci/gamesukimanIRS/IRSplugins/getCUUID/getCUUID)  
 サーバーに入った人のIP、Host、CID、UUIDを取得します。コマンド(又はConfig)で閲覧できます。  
 過去のIP、Host、CID、UUIDは記録しません。
 
